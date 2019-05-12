@@ -1,0 +1,6 @@
+token=iwZn1w9oPW2M4GKsTpzd3aTHgnNtmVNX
+owner=553631199453773824
+prefix= m
+game= mhelp
+stayinchannel=true
+songinstatus=true 
